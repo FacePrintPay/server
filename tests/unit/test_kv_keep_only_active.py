@@ -113,3 +113,5 @@ def test_disabled_with_flag():
     })
     assert res.status_code == 200
     assert "__TEST_TAG_CLEAR_IDLE_SLOT__" not in log.drain()
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_kv_keep_only_active.py

@@ -43,3 +43,5 @@ export { default as TruncatedText } from './TruncatedText.svelte';
  * Supports special keys like shift, cmd, and custom text.
  */
 export { default as KeyboardShortcutInfo } from './KeyboardShortcutInfo.svelte';
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=index.ts

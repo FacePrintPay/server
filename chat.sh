@@ -78,3 +78,5 @@ while true; do
     read -r -e -p "> " QUESTION
     chat_completion "${QUESTION}"
 done
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=chat.sh

@@ -6,3 +6,5 @@ export const CODE_LANGUAGE_CLASS = 'code-language';
 export const COPY_CODE_BTN_CLASS = 'copy-code-btn';
 export const PREVIEW_CODE_BTN_CLASS = 'preview-code-btn';
 export const RELATIVE_CLASS = 'relative';
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=code-blocks.ts

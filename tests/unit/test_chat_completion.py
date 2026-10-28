@@ -532,3 +532,5 @@ def test_chat_completions_multiple_choices():
         for choice in res.body["choices"]:
             assert "assistant" == choice["message"]["role"]
             assert choice["finish_reason"] == "length"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_chat_completion.py

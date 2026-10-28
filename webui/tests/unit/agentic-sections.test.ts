@@ -239,3 +239,5 @@ describe('hasAgenticContent', () => {
 		expect(hasAgenticContent(msg)).toBe(false);
 	});
 });
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=agentic-sections.test.ts

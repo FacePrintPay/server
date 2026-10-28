@@ -117,3 +117,5 @@ LLAMA_SERVER_BIN_PATH=../../../cmake-build-release/bin/llama-server python bench
               --max-prompt-tokens 256 \
               --max-tokens 256
 ```
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

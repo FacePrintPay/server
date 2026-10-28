@@ -41,3 +41,5 @@ def test_ignore_eos_false_no_logit_bias():
     assert res.status_code == 200
     logit_bias = res.body["generation_settings"]["logit_bias"]
     assert len(logit_bias) == 0
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_ignore_eos.py

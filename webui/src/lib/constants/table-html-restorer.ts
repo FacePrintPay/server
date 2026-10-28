@@ -18,3 +18,5 @@ export const LIST_PATTERN = /^<ul>([\s\S]*)<\/ul>$/i;
  * Case-insensitive, allows multiline content.
  */
 export const LI_PATTERN = /<li>([\s\S]*?)<\/li>/gi;
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=table-html-restorer.ts

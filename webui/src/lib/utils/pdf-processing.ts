@@ -148,3 +148,5 @@ export function isPdfFile(file: File): boolean {
 export function isApplicationMimeType(mimeType: string): boolean {
 	return mimeType === MimeTypeApplication.PDF;
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=pdf-processing.ts

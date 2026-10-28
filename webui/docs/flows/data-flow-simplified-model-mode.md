@@ -43,3 +43,5 @@ sequenceDiagram
     Stores->>Stores: abort stream
     Stores->>DB: save partial response
 ```
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=data-flow-simplified-model-mode.md

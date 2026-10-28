@@ -123,3 +123,5 @@ Rust's ownership system eliminates entire classes of bugs at compile time. While
 
 *Questions? Reach out on [Twitter](https://twitter.com/rustlang) or join the [Rust Discord](https://discord.gg/rust-lang)*
 `;
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=blog-post.ts

@@ -75,3 +75,5 @@ def test_with_qwen_model():
     })
     assert res.status_code == 200
     assert res.body["content"] == "n_threads();\n    printf(\"Number of threads: %d\\n\", n_threads);\n    return 0;\n"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_infill.py

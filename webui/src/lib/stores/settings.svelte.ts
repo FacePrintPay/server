@@ -454,3 +454,5 @@ export const settingsStore = new SettingsStore();
 export const config = () => settingsStore.config;
 export const theme = () => settingsStore.theme;
 export const isInitialized = () => settingsStore.isInitialized;
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=settings.svelte.ts

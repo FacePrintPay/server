@@ -144,3 +144,5 @@ def test_rerank_tei_top_n(top_n, expected_len):
     res = server.make_request("POST", "/rerank", data=data)
     assert res.status_code == 200
     assert len(res.body) == expected_len
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_rerank.py

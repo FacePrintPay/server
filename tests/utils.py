@@ -669,3 +669,5 @@ def download_file(url: str, output_file_path: str | None = None) -> str:
 
 def is_slow_test_allowed():
     return os.environ.get("SLOW_TESTS") == "1" or os.environ.get("SLOW_TESTS") == "ON"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=utils.py

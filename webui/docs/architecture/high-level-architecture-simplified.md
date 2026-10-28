@@ -143,3 +143,5 @@ flowchart TB
     class API1,API2,API3,API4 apiStyle
     class EXT1,EXT2 externalStyle
 ```
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=high-level-architecture-simplified.md

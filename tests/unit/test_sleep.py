@@ -37,3 +37,5 @@ def test_server_sleep():
     res = server.make_request("GET", "/props")
     assert res.status_code == 200
     assert res.body["is_sleeping"] == False
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_sleep.py

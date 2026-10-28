@@ -23,3 +23,5 @@ export function normalizeFloatingPoint(value: unknown): unknown {
 export function normalizeNumber(value: number): number {
 	return Math.round(value * PRECISION_MULTIPLIER) / PRECISION_MULTIPLIER;
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=precision.ts

@@ -113,3 +113,5 @@ def test_with_big_model():
     assert all([res.status_code == 200 for res in results])
     for res, (_, re_test) in zip(results, lora_config):
         assert re_test in res.body["choices"][0]["message"]["content"]
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_lora.py

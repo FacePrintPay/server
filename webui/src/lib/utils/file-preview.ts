@@ -34,3 +34,5 @@ export function getFileTypeLabel(input: string | undefined): string {
 	// Handle AttachmentType or other plain strings
 	return input.toUpperCase();
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=file-preview.ts

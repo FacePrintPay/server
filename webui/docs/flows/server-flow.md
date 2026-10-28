@@ -74,3 +74,5 @@ sequenceDiagram
 
     Note over serverStore: clear(): void<br/>Resets all state (props, error, loading, role)
 ```
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=server-flow.md

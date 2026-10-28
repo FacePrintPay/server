@@ -17,3 +17,5 @@ export const PANEL_CLASSES = `
 `;
 
 export const CHAT_FORM_POPOVER_MAX_HEIGHT = 'max-h-80';
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=css-classes.ts

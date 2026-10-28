@@ -61,3 +61,5 @@ export const SETTINGS_KEYS = {
 	SHOW_RAW_OUTPUT_SWITCH: 'showRawOutputSwitch',
 	CUSTOM: 'custom'
 } as const;
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=settings-keys.ts

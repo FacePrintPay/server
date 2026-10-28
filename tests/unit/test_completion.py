@@ -606,3 +606,5 @@ def test_completion_prompt_cache():
         assert "prompt_n" in timings and timings["prompt_n"] + timings["cache_n"] == n_prompt
         assert "predicted_n" in timings and timings["predicted_n"] == n_predict
         assert "tokens" in res.body and isinstance(res.body["tokens"], list)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_completion.py

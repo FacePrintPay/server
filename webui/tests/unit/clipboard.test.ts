@@ -421,3 +421,5 @@ describe('roundtrip edge cases', () => {
 		expect(parsed.textAttachments[0].content).toBe('\t\t\n\n   ');
 	});
 });
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=clipboard.test.ts

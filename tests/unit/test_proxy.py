@@ -39,3 +39,5 @@ def test_mcp_proxy_custom_port():
     res = server.make_request("GET", f"/cors-proxy?url=http://{server.server_host}:{server.server_port}/models")
     assert res.status_code == 200
     assert "data" in res.body
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_proxy.py

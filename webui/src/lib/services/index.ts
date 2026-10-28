@@ -260,3 +260,5 @@ export { ParameterSyncService } from './parameter-sync.service';
  * @see MCP Protocol Specification: https://modelcontextprotocol.io/specification/2025-06-18
  */
 export { MCPService } from './mcp.service';
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=index.ts

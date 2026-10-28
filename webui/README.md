@@ -685,3 +685,5 @@ tools/server/webui/
 - [llama.cpp Server README](../README.md) - Full server documentation
 - [Multimodal Documentation](../../../docs/multimodal.md) - Image and audio support
 - [Function Calling](../../../docs/function-calling.md) - Tool use capabilities
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

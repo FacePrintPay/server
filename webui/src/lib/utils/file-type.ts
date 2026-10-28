@@ -220,3 +220,5 @@ export function isFileTypeSupported(filename: string, mimeType?: string): boolea
 	// Fallback: treat everything else as text (inclusive by default)
 	return true;
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=file-type.ts

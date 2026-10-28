@@ -96,3 +96,5 @@ def test_slot_erase():
     assert res.status_code == 200
     assert match_regex("(Whiskers|Flana)+", res.body["content"])
     assert res.body["timings"]["prompt_n"] == 21  # all tokens are processed
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_slot_save.py

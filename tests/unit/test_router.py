@@ -192,3 +192,5 @@ def test_router_api_key_required():
     )
     assert authed.status_code == 200
     assert "error" not in authed.body
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_router.py

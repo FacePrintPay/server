@@ -71,3 +71,5 @@ export function isWebpFile(file: File): boolean {
 export function isWebpMimeType(mimeType: string): boolean {
 	return mimeType === MimeTypeImage.WEBP;
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=webp-to-png.ts

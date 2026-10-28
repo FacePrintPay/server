@@ -289,3 +289,5 @@ def test_embedding_openai_library_base64():
     # make sure the decoded data is the same as the original
     for x, y in zip(floats, vec0):
         assert abs(x - y) < EPSILON
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_embedding.py

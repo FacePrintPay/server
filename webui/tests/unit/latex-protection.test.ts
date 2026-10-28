@@ -374,3 +374,5 @@ $$\n\\pi_n(\\mathbb{S}^3) = \\begin{cases}
 		expect(output).toBe('Regular text with $x^2$.\n\n> Quote with $y^2$.\n\nMore text with $z^2$.');
 	});
 });
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=latex-protection.test.ts

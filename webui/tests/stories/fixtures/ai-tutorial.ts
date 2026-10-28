@@ -162,3 +162,5 @@ ${'```'}
 
 *Need help? Check the [documentation](https://kit.svelte.dev) or [open an issue](https://github.com/sveltejs/kit/issues)*
 `;
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=ai-tutorial.ts

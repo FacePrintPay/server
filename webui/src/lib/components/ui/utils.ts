@@ -11,3 +11,5 @@ export type WithoutChild<T> = T extends { child?: any } ? Omit<T, 'child'> : T;
 export type WithoutChildren<T> = T extends { children?: any } ? Omit<T, 'children'> : T;
 export type WithoutChildrenOrChild<T> = WithoutChildren<WithoutChild<T>>;
 export type WithElementRef<T, U extends HTMLElement = HTMLElement> = T & { ref?: U | null };
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=utils.ts

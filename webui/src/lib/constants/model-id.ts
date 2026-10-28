@@ -37,3 +37,5 @@ export const MODEL_ACTIVATED_PARAMS_RE = /^[Aa]\d+(\.\d+)?[BbMmKkTt]$/;
  * Container format segments to exclude from tags (every model uses these).
  */
 export const MODEL_IGNORED_SEGMENTS = new Set(['GGUF', 'GGML']);
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=model-id.ts

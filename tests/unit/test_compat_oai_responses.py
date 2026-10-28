@@ -71,3 +71,5 @@ def test_responses_stream_with_openai_library():
             assert r.response.output[0].id.startswith("msg_")
             assert gathered_text == r.response.output_text
             assert match_regex("(Suddenly)+", r.response.output_text)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_compat_oai_responses.py

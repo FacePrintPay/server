@@ -1942,3 +1942,5 @@ export const mcpHasServerInstructions = () => mcpStore.hasServerInstructions();
 export const mcpHasResourcesCapability = () => mcpStore.hasResourcesCapability();
 export const mcpServersWithResources = () => mcpStore.getServersWithResources();
 export const mcpResourceContext = () => mcpStore.getResourceContextForChat();
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=mcp.svelte.ts

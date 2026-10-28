@@ -156,3 +156,5 @@ async function parseErrorMessage(response: Response): Promise<string> {
 
 	return `Request failed: ${response.status} ${response.statusText}`;
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=api-fetch.ts

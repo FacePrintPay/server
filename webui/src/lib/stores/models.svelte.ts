@@ -722,3 +722,5 @@ export const propsCacheVersion = () => modelsStore.propsCacheVersion;
 export const singleModelName = () => modelsStore.singleModelName;
 export const selectedModelContextSize = () => modelsStore.selectedModelContextSize;
 export const favoriteModelIds = () => modelsStore.favoriteModelIds;
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=models.svelte.ts

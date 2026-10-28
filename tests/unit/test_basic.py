@@ -111,3 +111,5 @@ def test_server_model_aliases_and_tags():
     assert set(model["tags"]) == {"chat", "fim", "small"}
     # id is derived from first alias (alphabetical order from std::set)
     assert model["id"] == "code"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test_basic.py

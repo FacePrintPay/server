@@ -17,3 +17,5 @@ export { default as ActionIconCopyToClipboard } from './ActionIconCopyToClipboar
 
 /** Remove/delete icon button with X icon. */
 export { default as ActionIconRemove } from './ActionIconRemove.svelte';
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=index.ts

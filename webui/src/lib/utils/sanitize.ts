@@ -21,3 +21,5 @@ export function sanitizeKeyValuePairKey(raw: string): string {
 export function sanitizeKeyValuePairValue(raw: string): string {
 	return raw.replace(KEY_VALUE_PAIR_UNSAFE_VALUE_RE, '').slice(0, KEY_VALUE_PAIR_VALUE_MAX_LENGTH);
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=sanitize.ts

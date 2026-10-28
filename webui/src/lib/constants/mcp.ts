@@ -61,3 +61,5 @@ export const MCP_TRANSPORT_ICONS: Record<MCPTransportType, Component> = {
 	[MCPTransportType.STREAMABLE_HTTP]: Globe,
 	[MCPTransportType.SSE]: Radio
 };
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=mcp.ts

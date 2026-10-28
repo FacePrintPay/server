@@ -77,3 +77,5 @@ export function setSidebar(props: SidebarStateProps): SidebarState {
 export function useSidebar(): SidebarState {
 	return getContext(Symbol.for(SYMBOL_KEY));
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=context.svelte.ts

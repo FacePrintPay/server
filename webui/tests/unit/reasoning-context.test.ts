@@ -87,3 +87,5 @@ describe('reasoning content in new structured format', () => {
 		expect(apiMessage.reasoning_content).toBeUndefined();
 	});
 });
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=reasoning-context.test.ts
